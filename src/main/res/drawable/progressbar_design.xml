@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/backgroundProgress">
+        <shape android:shape="ring"
+            android:thickness="5dp"
+            android:innerRadius="@dimen/inner_radius"
+            android:useLevel="true">
+            <solid android:color="#00FF0A"/>
+            <corners android:radius="10dp"/>
+        </shape>
+
+    </item>
+</layer-list>

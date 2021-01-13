@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_size">280dp</dimen>
+    <dimen name="text_size">60sp</dimen>
+    <dimen name="guideline2">400dp</dimen>
+    <dimen name="inner_radius">100dp</dimen>
+</resources>
